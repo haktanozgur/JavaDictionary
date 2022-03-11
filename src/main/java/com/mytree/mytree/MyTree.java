@@ -26,7 +26,7 @@ public class MyTree {
             }
     
         }
- 
+    
     
     catch (FileNotFoundException e) {
       System.out.println("Bir Hata Oluştu !");
